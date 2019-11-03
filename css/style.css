@@ -27,7 +27,7 @@ body {
     position: absolute;
     width: 300px;
     height: 460px;
-    top: 60px;
+    top: 100px;
     left: 40px;
 
 }
@@ -35,7 +35,7 @@ body {
 
 .blurry {
     position: absolute;
-    top: 480px;
+    top: 515px;
     left: 80px;
     width: 200px;
     height: 200px;
