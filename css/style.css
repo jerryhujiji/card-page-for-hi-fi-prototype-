@@ -90,6 +90,7 @@ body {
 
   .btnD{
       height: 60px;
+      cursor: pointer;
       width:60px;
       background: url(../images/icon_Dictionary.png);
       background-repeat: no-repeat;
